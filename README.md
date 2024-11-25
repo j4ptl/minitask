@@ -1,2 +1,2 @@
-# minitask
-responsive card template design in internship
+# Mini Task 
+responsive card template design in intern...................
